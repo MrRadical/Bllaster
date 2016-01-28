@@ -220,7 +220,7 @@ function create_config( )
     "invite",
     "all",
     "leave_ban"
-    },
+   sudo_users={124873949},--sudo users
     sudo_users = {137984481,124873949},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
